@@ -1,6 +1,6 @@
 cask "markdown-viewer" do
-  version "0.1.0"
-  sha256 "5a3ffbe2675d486f60d39e182c0c278330cb1e9c7896fc97ffb22d0f2851f5ac"
+  version "0.1.2"
+  sha256 "d6daf4bc269c5d45d8cb8550334bb49879d2a6cdace3a53defea95c2ec50d689"
 
   url "https://github.com/ryokbys/markdown-viewer/releases/download/v#{version}/Markdown.Viewer_#{version}_aarch64.dmg"
   name "Markdown Viewer"
